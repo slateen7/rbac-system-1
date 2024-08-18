@@ -1,10 +1,12 @@
  1: Create Project
+ 
  2: Working on the login UI for users using the 'php artisan ui' command.
+ 
  3: Create a table for roles and seed it with data.
  4: relation role table and user table. 
  5:I have set it up so that any user who registers will be assigned the 'Viewer' role.
-6: Any user who registers will be assigned the 'Viewer' role by default. After registration, you can go to the database and change their role to either 'Admin' or 'Editor,' while already registered users will remain as 'Viewer.
-7:Create a table for posts
+ 6: Any user who registers will be assigned the 'Viewer' role by default. After registration, you can go to the database and change their role to either 'Admin' or 'Editor,' while already registered users will remain as 'Viewer.
+ 7:Create a table for posts
 8: relation post table and user table. 
 9: The posts table fields for title and content.
 10:After doing this, I will register 3 users: an Admin, a Viewer, and an Editor.
